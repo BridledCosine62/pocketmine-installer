@@ -7,5 +7,5 @@ mkdir pmmp
 cd pmmp
 echo "installing pmmp"
 curl -sL https://get.pmmp.io | bash -s - -r 
-echo "Done! the pmmp directory is on "pmmp"
+echo "Done! the pmmp directory is on "pmmp""
 ls

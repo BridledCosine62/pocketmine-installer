@@ -1,0 +1,2 @@
+# pocketmine-installer
+install pocketmine
